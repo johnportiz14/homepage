@@ -38,7 +38,7 @@ roles:
    start: 2017
    end: Ongoing
    employer: Los Alamos National Laboratory
-   description: Developing numerical approaches for detecting clandestine underground nuclear explosion (UNE) tests. Ongoing projects include simulating radionuclide gas transport in fractured geologic media using multiple finite-element method (FEM) and control volume finite- element (CVFEM) numerical models, determining field-scale transport properties of rocks using models and tracer experiments, and developing a reduced-order model (ROM) for rapid prediction of gas seepage times. Also developing the Amanzi high performance computing (HPC) flow & transport simu- lator to meet the Nuclear Quality Assurance-1 (NQA-1) regulatory standard by improving code verification and benchmark tests. Collaborating on a multi-lab program supported by the DOE Office of Environmental Management (DOE EM) to provide scientifically defensible and standardized assessments of the uncertainties and risks associated with the environmental cleanup and closure of waste sites.
+   description: Developing numerical approaches for detecting clandestine underground nuclear explosion (UNE) tests.  Also developing the Amanzi high performance computing (HPC) flow & transport simulator to meet the Nuclear Quality Assurance-1 (NQA-1) regulatory standard by improving code verification and benchmark tests. 
 #  - title: Senior Engineer
 #    start: 2012
 #    end: 2016
